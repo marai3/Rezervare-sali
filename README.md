@@ -22,6 +22,7 @@ Cum se anulează o rezervare
 2. Introdu ora și data rezervării
 3. Selectează sala rezervată
 4. Programul va verifica fișierul `rezervari.txt` și va elimina rezervarea dacă este găsită
+   
 Cum se face o rezervare
 1. Vei primi o listă cu sălile disponibile și detaliile despre acestea
 2. Vei introduce numărul sălii care dorești să o rezervi
